@@ -1,6 +1,6 @@
 # Digital Clock in Logisim
 
-A fully functional digital clock designed and simulated using **Logisim**, a digital circuit design and simulation tool. This project demonstrates the implementation of counters, flip-flops, and logic gates to build a real-time clock circuit.
+A fully functional digital clock designed and simulated using **Logisim**, a digital circuit design and simulation tool. This project demonstrates the implementation of counters, flip-flops, and logic gates to build a digital clock circuit.
 
 ---
 
